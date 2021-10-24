@@ -1,0 +1,22 @@
+insert into "public"."dw_tpv" values( 12345678, 'MINI SUPER YEPAS', 'SUPER ACATLIMA', 'BBVA', 71230, 02, 5255, '2021-10-23', 1, 'Nacional', 54, 00, 3241, 1234, 2, 1,-96.729423, 17.028827, 'Oaxaca', 'Mexico', 'FALLA UNICA', 'VF804090402')
+
+
+insert into "public"."dw_tpv" values( 22345672, 'TIENDA ABARROTES CAN', 'SUPER PLUS SA', 'BBVA', 71230, 02, 5295, '2021-10-23', 1, 'Nacional', 51, 04, 8654, 4550, 2, 1, -96.733791, 17.032243, 'Oaxaca', 'Mexico', 'TRANSACCION EXITOSA', 'FFF04090402')
+
+insert into "public"."dw_tpv" values( 32343673, 'MANUALIDADES JENNY', 'SUPER CANAS', 'BBVA', 71230, 01, 5215, '2021-10-23', 0, 'Nacional', 50, 05, 1122, 8473, 2, 2, -96.721378, 17.069332, 'Oaxaca', 'Mexico', 'TRANSACCION EXITOSA', 'QQ804011102')
+
+
+insert into "public"."dw_tpv" values( 42345474, 'RESTAURANTE EL SAPITO', 'MINI SUPER YEPAS BOCA DEL RIO', 'BBVA', 76158, 01, 5195, '2021-10-23', 1, 'Nacional', 34, 00, 3333, 8571, 2, 3,-100.399723, 20.612011, 'Queretaro', 'Mexico','FALLA UNICA','AAAA4011102' )
+
+
+
+insert into "public"."dw_tpv" values( 12366676, 'CAFETERIA LINDO DIA', 'OXXO MARCONI MEX ACOLMAN EM ', 'BBVA', 76158, 00, 3187, '2021-10-23' 1, 'Nacional', 24, 00, 6754, 7531, 2, 2,-100.397674, 20.611951, 'Queretaro', 'Mexico', 'TRAANSACCION EXITOSA', 'ASD04011102') 
+
+
+insert into "public"."dw_tpv" values( 12344938, 'LLANTERA MICHELLIN', 'MICHELLIN CON MX', 'BBVA', 77000, 02, 5215, '2021-12-15', 1, 'Nacional', 54, 00, 3241, 1234, 2, 1, -88.277131, 18.520671, 'Chetumal', 'Mexico', 'BATTERY TOKEN ERROR', 'QWERTY90402')
+
+
+insert into "public"."dw_tpv" values( 22343212, 'LAVANDERIA OAX', 'OAX CLEAN QQ', 'BBVA', 23000, 02, 2895, '2021-01-10', 1, 'Nacional', 51, 04, 8654, 4550, 2, 1, -110.336847, 24.138207 , 'Baja California Sur', 'Mexico', 'BATTERY TOKEN ERROR', 'III0401Q102')
+
+insert into "public"."dw_tpv" values( 87143673, 'TACOS GUELAGUETZA', 'TACOS Y MAS TACOS', 'BBVA', 80000, 01, 8888, '2020-07-12', 0, 'Nacional', 50, 05, 1222, 9473, 2, 2, -107.427780, 24.802408, 'Chetumal', 'Mexico', 'TRANSACCION EXITOSA', 'ASD04011102')
+
