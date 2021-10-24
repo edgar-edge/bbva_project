@@ -1,0 +1,6 @@
+credenciales de postgresql
+
+host: catalogo-bbva.c5d1odgjbkd6.us-east-2.rds.amazonaws.com
+db: postgres
+user: postgres
+pass: Bbvapass1
